@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 import requests
 
 SUPABASE_URL = os.environ["SUPABASE_URL"]
-SUPABASE_SERVICE_KEY = os.enVIRON["SUPABASE_SERVICE_KEY"]
+SUPABASE_SERVICE_KEY = os.environ["SUPABASE_SERVICE_KEY"]
 PRODUCT_ID = os.environ["PRODUCT_ID"]
 
 HEADERS = {
