@@ -52,3 +52,4 @@ Dashboard: https://commercial-property-manager-cam-reconcil.vokrix.co
 Vercel: commercial-property-manager-cam-reconcil
 Railway: 36234174-1035-4c9d-bbbc-9f7034837073
 Railway: commercial-property-manager-cam-reconcil
+Cloudflare: commercial-property-manager-cam-reconcil.vokrix.co
